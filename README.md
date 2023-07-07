@@ -6,8 +6,6 @@
 
 ## 커리큘럼
 
----
-
 ### Week 1-1 : 자바스크립트의 발전이 어떻게 웹을 바꾸었는지 알아봅시다.
 
     MPA, SPA, CSR, Browser Rendering
